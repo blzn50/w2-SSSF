@@ -42,23 +42,16 @@
         "original": "http://placekitten.com/2039/1920"
     },
     {
-        "_id": "5ac30f99f9d9d8174c151b19",
-        "title": "2wed3wef3e",
-        "category": "fdsaf383urf 84ur4",
-        "details": "383 ncr3rn3rcm4m4ccnfiurefn4ew rewjfluesr",
-        "thumbnail": " http://localhost:35000/uploads/thumbnails/image-1522732953380.jpg",
-        "image": " http://localhost:35000/uploads/image/image-1522732953380.jpg",
-        "original": "http://localhost:35000/uploads/image-1522732953380.jpg",
-        "time": "2018-04-03 08:22"
-    },
-    {
-        "_id": "5ac31bc01572f342f447608b",
-        "title": "2wed3wef3e",
-        "category": "fdsaf383urf 84ur4",
-        "details": "383 ncr3rn3rcm4m4ccnfiurefn4ew rewjfluesr",
-        "thumbnail": " http://localhost:35000/uploads/thumbnails/image-1522736064094.jpg",
-        "image": " http://localhost:35000/uploads/image/image-1522736064094.jpg",
-        "original": "http://localhost:35000/uploads/image-1522736064094.jpg",
-        "time": "2018-04-03 09:14"
+        "title": "reasonable to post",
+        " category": "nothing new",
+        "details": "not lorem ipsumf f ds aff  fsafakjaif h",
+        "original": "uploads/image20180406112010.jpg",
+        "time": "2018-04-06 11:20",
+        "coordinates": {
+            "lat": 60.36798888888889,
+            "lng": 25.254136111111112
+        },
+        "thumbnail": "/thumbnails/image20180406112010.jpg",
+        "image": "/image/image20180406112010.jpg"
     }
 ]
